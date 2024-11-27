@@ -70,21 +70,26 @@ body{
   background-color: brown;
 } */
 th{
+  height: 20px;
   background-color: brown;
   color: white;
+ 
 }
+
 table, td, tr{
   
   color: rgb(106, 102, 102);
   text-align: left;
   height: 35px;
   border: 1px solid black;
+  height: 80px;
 
   
   /* text-align: left; */
   border-collapse: collapse;
   
 }
+
 .image{
-  height: 120px;
+  height: 80px;
 }
