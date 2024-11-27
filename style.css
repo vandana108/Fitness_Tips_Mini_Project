@@ -53,3 +53,38 @@ body{
   width: 100px;
   border-radius: 5px;
 } 
+.outer-div1{
+  width: 100%;
+  height: 400px;
+  background-color: white;
+  font-family: sans-serif, Arial, Helvetica, sans-serif;
+}
+.inner-div1{
+  columns: black;
+  margin-top: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+  /* background-color: red; */
+}
+/* .table-color{
+  background-color: brown;
+} */
+th{
+  background-color: brown;
+  color: white;
+}
+table, td, tr{
+  
+  color: rgb(106, 102, 102);
+  text-align: left;
+  height: 35px;
+  border: 1px solid black;
+
+  
+  /* text-align: left; */
+  border-collapse: collapse;
+  
+}
+.image{
+  height: 120px;
+}
