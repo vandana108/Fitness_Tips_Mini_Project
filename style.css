@@ -93,3 +93,33 @@ table, td, tr{
 .image{
   height: 80px;
 }
+
+.fitness-outer{
+  width: 100%;
+  margin-top: 20px;
+  background-color: grey;
+}
+.fitness-tips{
+  margin-top: 20px;
+  height: 450px;
+  justify-content: center;
+  background-color: #FFF4F4;
+}
+h1{
+ 
+  margin-left: 40px; 
+}
+.tips{
+  color: black;
+  line-height: 30px;
+}
+.Newsletter-box{
+  margin-left: 20px;
+  padding: 10px;
+  color: white;
+  /* font-weight: bold; */
+  font-size: medium;
+  height: 45px;
+  background-color: rgb(41, 40, 40);
+  border-radius: 5px;
+}
