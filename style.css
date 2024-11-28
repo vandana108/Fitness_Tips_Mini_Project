@@ -21,6 +21,9 @@ body{
   background-color: brown;
   text-align: center;
 }
+.about{
+   margin-left: -3px;
+}
 
 #text{
   padding-top: 25px; 
