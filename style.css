@@ -149,7 +149,7 @@ h1{
   
   background-color: #FFF4F4;
   width: 100%;
-  min-height: 500px;
+  min-height: 800px;
 
 }
 .inner-goals-div{
@@ -171,7 +171,7 @@ h1{
 .second-box{
   color: white;
   background-color: brown;
-  width:55%;
+  width:20%;
   height: 40px;
   /* margin-left: 20px; */
   text-align: center;
@@ -183,4 +183,37 @@ h1{
   height: 40px;
   /* margin-left: 20px; */
   text-align: center;
+}
+
+.fourth-box{
+  color: white;
+  background-color: brown;
+  width: 20%;
+  height: 40px;
+  /* margin-left: 20px; */
+  text-align: center;
+}
+
+.first{
+  color: white;
+  flex: center;
+  background-color: brown;
+  width: 97%;
+  height: 40px;
+  margin-left: 20px;
+  /* margin-right: 20px; */
+  /* margin-left: 20px; */
+  text-align: center;
+  box-gap 20px;
+  
+}
+.inner-goals-last
+{
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: rgb(221, 219, 219);
+
+  height: 300px;
+
 }
