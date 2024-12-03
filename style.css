@@ -215,10 +215,10 @@ h1{
   height: 300px;
 }
 .Video-img{
-
+  justify-content: center;
   text-align: center;
   height: 150px;
-  background-color: #606971;
+  background-color: #dee0e2;
   display:inline-flexbox
 
 }
