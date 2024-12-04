@@ -213,12 +213,31 @@ h1{
   margin-right: 20px;
   background-color: rgb(221, 219, 219);
   height: 300px;
+ 
 }
 .Video-img{
   justify-content: center;
   text-align: center;
   height: 150px;
   background-color: #dee0e2;
-  
+  margin-left: 700px;
+}
 
+footer{
+  background-color: black;
+  height: 80px;
+}
+
+.footer{
+  text-align: center;
+  justify-content: center;
+  color: white;
+  padding: 25px;
+  font-size: large;
+}
+.text{
+  text-align: center;
+  margin-left: 700px;
+  font-size: large;
+  font-weight: bold;
 }
